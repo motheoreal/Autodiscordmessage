@@ -1,0 +1,9 @@
+{
+    "Config": [
+        {
+            "token": "token",
+            "channelid": "id",
+            "message": "message"
+         }
+    ]
+}
